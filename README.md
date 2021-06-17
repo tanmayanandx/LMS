@@ -12,3 +12,9 @@ retrieval of clothes. The aim of this application is to determine the number of
 clothes collected, in relation to their owners, as this also helps the users fix a date
 for the collection of their clothes. Also customer’s information is secured, as a
 specific id is allocated per registration to avoid contrasting information.
+
+
+Group Members:
+Mukul Verma 20419058
+Ravindra Kumar 20419071
+Tanmay Anand 20419085
