@@ -1,0 +1,24 @@
+.rate_card_list{
+    display: flex;
+    /* border: 2px solid black; */
+    justify-content: space-evenly;
+    align-items: center;
+    height: 600px;
+    width: 100%;
+}
+
+.rate_card{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid gray;
+
+    height: 500px;
+    width: 250px;
+}
+
+.top_part{
+    padding-top: 25px;
+    padding-left: 12px;
+    font-weight: bold;
+    color: white;
+}

@@ -1,0 +1,64 @@
+@media(max-width:540px) {
+.navs{
+    font-size:12px;
+}
+.navbar{
+    margin-top:-9px;
+    border-top:2px solid black;
+    position:sticky;
+    top:0px;
+}
+
+.boxs{
+    flex-direction:column;
+}
+.box1{
+    margin:15px;
+    border-top:2px solid grey;
+}
+.how_it_works{
+    margin-bottom:-45px;
+}
+.laundry_man{
+    margin:-20px;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+.laundry_man_image{
+    display:flex;
+    /* border:1px solid black; */
+    justify-content:center;
+    background-color:#F7A704;
+    border-radius:9px;
+    align-items:center;
+}
+.laundry_man_image img{
+    width:300px;
+    border-radius:9px;
+    height:200px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   }
+.laundry_man_content{
+    font-size:12px;
+}
+.quick_order_place{
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+.some_image_of_laundry{
+    margin-top:-35px;
+    margin-bottom:10px;
+}
+.some_image_of_laundry img{
+    height:200px;
+    width:300px;
+}
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 10px;
+    width:300px;
+}
+}
